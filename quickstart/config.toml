@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://cbcalves.github.io/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Carlos Alves"
@@ -6,6 +6,7 @@ theme = "anatole"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
+publishDir = "../docs"
 
 # Enable Disqus
 #disqusShortname = ""
