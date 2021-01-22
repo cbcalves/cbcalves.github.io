@@ -26,7 +26,7 @@ author = "Carlos Alves"
 description = ""
 profilePicture = "images/myprofile.jpg"
 keywords = "KDE"
-# favicon = "favicons/" #######################################
+favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
