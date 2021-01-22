@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "Codes in KDE"
-date = "2020-01-13"
+date = "2020-01-01"
 aliases = ["about-me", "contact"]
 author = "Carlos Alves"
 +++
