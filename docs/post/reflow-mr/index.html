@@ -158,15 +158,15 @@
 <h3 id="merged">Merged</h3>
 <p>Back to the <a href="https://invent.kde.org/utilities/konsole/-/merge_requests/321">re-flow project</a>, bug fixed, added some new unlimited history manipulation to update the last line and delete the last line. As it seems to me it was impossible to re-flow the unlimited history as it is unlimited, well with some people it can be something near to an infinite loop.</p>
 <p>While fixing the re-flow, <a href="https://pointieststick.com/">Nate Graham</a> came to the MR and asked if it was going to be optional, because some people didn&rsquo;t want to use it. As I was working with something that I considered to be really cool in Konsole, I never thought about this, that someone could not want to use it, but they are right, sometimes we might be working on something and not want to have it re-flowing. I added an option to set the re-flow off in the profile.</p>
-<p>And the last commits were about performance, I was thinking about the re-flow performance since I had a video call with Thomas Canabrava, where he showed me the unlimited history bug. But I noticed how it was using my processor to re-flow two tabs and I wanted it to do better. So I reordered the data flow and re-factored some functions to improve the re-flow performance, reducing the number of loops and simplifying the data flow.</p>
+<p>And the last commits were about performance, I was thinking about the re-flow performance since I had a video call with Tomaz Canabrava, where he showed me the unlimited history bug. But I noticed how it was using my processor to re-flow two tabs and I wanted it to do better. So I reordered the data flow and re-factored some functions to improve the re-flow performance, reducing the number of loops and simplifying the data flow.</p>
 <h3 id="unlimited">Unlimited</h3>
 <p>It was time to think on the <a href="https://invent.kde.org/utilities/konsole/-/merge_requests/330">unlimited scroll re-flow</a>, as it have a different way to save the lines from the fixed size, I realized it was going to need a different way to handle it, as fixed size and unlimited scroll have very different methods to save the lines.</p>
 <p>The unlimited scroll is saved in three files: one for the characters, one for the indexes and one for the &lsquo;next line&rsquo; mark. While the fixed size history is just one vector.</p>
 <p>I choose to change just the indexes and &lsquo;next line&rsquo; mark, it was not necessary to change the characters content.</p>
 <p>First step was move the fixed size history code to CompactHistoryScroll and set the screen to call this function when it was needed. Then I started to code the unlimited re-flow in the HistoryFileScroll to be called with the same command.</p>
 <p>And it worked, it does the re-flow just changing the indexes of begin, end of lines and setting the &lsquo;next line&rsquo; marks. After setting a limit (the infinite loop), with some tests, to 20,000 lines the MR is up.</p>
-<h3 id="testes">Testes</h3>
-<p>After writing some testes for both re-flows codes, and fix some bugs found with the testes, it is finally ready.</p>
+<h3 id="tests">Tests</h3>
+<p>After writing some tests for both re-flows codes, and fix some bugs found with the tests, it is finally ready.</p>
 </div>
         <div class="post-footer">
             <div class="info">

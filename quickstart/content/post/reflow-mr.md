@@ -32,7 +32,7 @@ Back to the [re-flow project](https://invent.kde.org/utilities/konsole/-/merge_r
 
 While fixing the re-flow, [Nate Graham](https://pointieststick.com/) came to the MR and asked if it was going to be optional, because some people didn't want to use it. As I was working with something that I considered to be really cool in Konsole, I never thought about this, that someone could not want to use it, but they are right, sometimes we might be working on something and not want to have it re-flowing. I added an option to set the re-flow off in the profile.
 
-And the last commits were about performance, I was thinking about the re-flow performance since I had a video call with Thomas Canabrava, where he showed me the unlimited history bug. But I noticed how it was using my processor to re-flow two tabs and I wanted it to do better. So I reordered the data flow and re-factored some functions to improve the re-flow performance, reducing the number of loops and simplifying the data flow.
+And the last commits were about performance, I was thinking about the re-flow performance since I had a video call with Tomaz Canabrava, where he showed me the unlimited history bug. But I noticed how it was using my processor to re-flow two tabs and I wanted it to do better. So I reordered the data flow and re-factored some functions to improve the re-flow performance, reducing the number of loops and simplifying the data flow.
 
 ### Unlimited
 It was time to think on the [unlimited scroll re-flow](https://invent.kde.org/utilities/konsole/-/merge_requests/330), as it have a different way to save the lines from the fixed size, I realized it was going to need a different way to handle it, as fixed size and unlimited scroll have very different methods to save the lines.
@@ -45,5 +45,5 @@ First step was move the fixed size history code to CompactHistoryScroll and set 
 
 And it worked, it does the re-flow just changing the indexes of begin, end of lines and setting the 'next line' marks. After setting a limit (the infinite loop), with some tests, to 20,000 lines the MR is up.
 
-### Testes
-After writing some testes for both re-flows codes, and fix some bugs found with the testes, it is finally ready.
+### Tests
+After writing some tests for both re-flows codes, and fix some bugs found with the tests, it is finally ready.
