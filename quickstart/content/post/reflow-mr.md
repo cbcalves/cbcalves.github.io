@@ -8,7 +8,7 @@ tags = [
     "Konsole",
     "Programming",
     "KDE Plasma",
-    "Free Software"
+    "Open Source"
 ]
 +++
 ### The Re-flow

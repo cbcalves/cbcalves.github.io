@@ -2,26 +2,26 @@
 author = "Carlos Alves"
 title = "Contributing to Konsole"
 date = "2020-01-13"
-description = "How I started contribute with free software and Konsole"
+description = "How I started contribute with Open Source and Konsole"
 tags = [
     "KDE",
     "Konsole",
     "Programming",
     "KDE Plasma",
-    "Free Software"
+    "Open Source"
 ]
 +++
 ### Discovering
-I never thought I could contribute with free software, or even imagined I could change my workspace, in my mind doing it was beyond my programming skills.
+I never thought I could contribute with Open Source, or even imagined I could change my workspace, in my mind doing it was beyond my programming skills.
 
 I was a Windows user for a long time, until one day I couldn't stand anymore how the system was so slow, it was not a top computer, but it was a reasonable one to be that slow.
 
 So I changed to Debian and used it for a time until change to other distros, but I was amazed how fast it was, of course I couldn't use all of the same programs I used to work with but I did learn new ones.
 
-### The Free Software Contribution
-Time goes on and last year (2020), with the pandemics, I've got some spare time at home, so I decided to learn new things, I solved problems and challenges in different programming languages, and discovered [Qt](https://www.qt.io/), well Qt was so connected to [KDE](https://kde.org/) that somehow I ended up watching lives about "how to contribute with free software" (2020 was the year of "lives"?) and events that talked about it.
+### The Open Source Contribution
+Time goes on and last year (2020), with the pandemics, I've got some spare time at home, so I decided to learn new things, I solved problems and challenges in different programming languages, and discovered [Qt](https://www.qt.io/), well Qt was so connected to [KDE](https://kde.org/) that somehow I ended up watching lives about "How to contribute with Open Source" (2020 was the year of "lives"?) and events that talked about it.
 
-I was using Qt with some private things and thought that I should see how this free software contribution really works, my first choice was the program that I'm always using: the terminal (in [KDE Plasma](https://kde.org/plasma-desktop/): [Konsole](https://konsole.kde.org/)), probably 99% of linux/unix users have a terminal opened.
+I was using Qt with some private things and thought that I should see how this Open Source contribution really works, my first choice was the program that I'm always using: the terminal (in [KDE Plasma](https://kde.org/plasma-desktop/): [Konsole](https://konsole.kde.org/)), probably 99% of linux/unix users have a terminal opened.
 
 ### Konsole
 After downloading the code, some time installing dependencies (I guess everyone new to it have a problem here, lets skip it) I finally got it compiled and running. Than reading enough of pages, codes and testing some fixes, I lost the fear of not being good enough and submitted the fixes.
