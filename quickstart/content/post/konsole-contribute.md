@@ -1,7 +1,7 @@
 +++
 author = "Carlos Alves"
 title = "Contributing to Konsole"
-date = "2020-01-25"
+date = "2020-01-23"
 description = "How I started contribute with Open Source and Konsole"
 tags = [
     "KDE",
