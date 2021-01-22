@@ -8,15 +8,6 @@
     <language>en</language>
     <lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cbcalves.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Free Software</title>
-      <link>https://cbcalves.github.io/tags/free-software/</link>
-      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cbcalves.github.io/tags/free-software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>KDE</title>
       <link>https://cbcalves.github.io/tags/kde/</link>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
@@ -40,6 +31,15 @@
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cbcalves.github.io/tags/konsole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://cbcalves.github.io/tags/open-source/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cbcalves.github.io/tags/open-source/</guid>
       <description></description>
     </item>
     

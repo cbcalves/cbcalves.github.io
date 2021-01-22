@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Carlos Alves</title>
-    <link>https://cbcalves.github.io/post/</link>
-    <description>Recent content in Posts on Carlos Alves</description>
+    <title>Open Source on Carlos Alves</title>
+    <link>https://cbcalves.github.io/tags/open-source/</link>
+    <description>Recent content in Open Source on Carlos Alves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cbcalves.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cbcalves.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Konsole Re-Flow Lines</title>
       <link>https://cbcalves.github.io/post/reflow-mr/</link>

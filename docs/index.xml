@@ -17,12 +17,21 @@
     </item>
     
     <item>
+      <title>About</title>
+      <link>https://cbcalves.github.io/about/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cbcalves.github.io/about/</guid>
+      <description>This site was written in Go, Hugo is an open source static site generator available under the Apache Licence 2.</description>
+    </item>
+    
+    <item>
       <title>Contributing to Konsole</title>
       <link>https://cbcalves.github.io/post/konsole-contribute/</link>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cbcalves.github.io/post/konsole-contribute/</guid>
-      <description>Discovering I never thought I could contribute with free software, or even imagined I could change my workspace, in my mind doing it was beyond my programming skills.</description>
+      <description>Discovering I never thought I could contribute with Open Source, or even imagined I could change my workspace, in my mind doing it was beyond my programming skills.</description>
     </item>
     
     <item>
@@ -41,15 +50,6 @@
       
       <guid>https://cbcalves.github.io/contact/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://cbcalves.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cbcalves.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.</description>
     </item>
     
   </channel>
