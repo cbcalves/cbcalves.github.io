@@ -3,56 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cbcalves.github.io/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbcalves.github.io/tags/kde/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbcalves.github.io/tags/kde-plasma/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbcalves.github.io/tags/konsole/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbcalves.github.io/post/reflow-mr/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbcalves.github.io/tags/open-source/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbcalves.github.io/post/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbcalves.github.io/tags/programming/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbcalves.github.io/tags/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbcalves.github.io/post/konsole-contribute/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cbcalves.github.io/archives/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -68,11 +18,23 @@
   </url>
   
   <url>
+    <loc>https://cbcalves.github.io/</loc>
+  </url>
+  
+  <url>
     <loc>https://cbcalves.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://cbcalves.github.io/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cbcalves.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cbcalves.github.io/tags/</loc>
   </url>
   
 </urlset>
