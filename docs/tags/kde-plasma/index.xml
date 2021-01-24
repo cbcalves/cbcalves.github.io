@@ -6,11 +6,11 @@
     <description>Recent content in KDE Plasma on Carlos Alves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cbcalves.github.io/tags/kde-plasma/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cbcalves.github.io/tags/kde-plasma/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contributing to Konsole</title>
       <link>https://cbcalves.github.io/post/konsole-contribute/</link>
-      <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cbcalves.github.io/post/konsole-contribute/</guid>
       <description>Discovering I never thought I could contribute with Open Source, or even imagined I could change my workspace, in my mind doing it was beyond my programming skills.</description>
