@@ -6,7 +6,16 @@
     <description>Recent content in Open Source on Carlos Alves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cbcalves.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cbcalves.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Konsole Re-Flow Lines</title>
+      <link>https://cbcalves.github.io/post/reflow-mr/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cbcalves.github.io/post/reflow-mr/</guid>
+      <description>The Re-flow One day I was looking at the MR (Merge Request) and saw Tomaz Canabrava&amp;rsquo;s sketch showing the terminal re-flow lines while it shrinks, and I just thought it would be great to have it fully working.</description>
+    </item>
+    
     <item>
       <title>Contributing to Konsole</title>
       <link>https://cbcalves.github.io/post/konsole-contribute/</link>
